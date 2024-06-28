@@ -5,16 +5,16 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.2</version>
+		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.monitoring</groupId>
 	<artifactId>Actuator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Actuator</name>
-	<description>Spring actuator demo for Spring Boot</description>
+	<description>Spring actuator project using Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
